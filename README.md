@@ -1,9 +1,9 @@
 # [Renata Oliveira] <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jmeiHN_FLkRD38rct8Sd0R9yb386xVv1Oma5FN8mxRetwelqULMwyMP0aDdo_QMYhMc&usqp=CAU" width="60px">
 
-Eu sou <strong>Renata</strong>, <strong>estou embarcando em uma nova jornada, empolgada para desbravar o mundo da ADS.</strong> 👨🏻‍💻 
+Eu sou <strong>Renata</strong>e <strong>estou embarcando em uma nova jornada, empolgada para desbravar o mundo da ADS.</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Primerio perído de ADS</strong> 
-- 💬 Pergunte-me sobre: <strong>Descobrindo hobbies dia após dia</strong>
+- 🚀 Estudando: <strong>Primerio perído de ADS</strong> 
+- 💬 Hobbies: <strong>Descobrindo hobbies dia após dia</strong>
 - 📣 Nós podemos falar em: <strong>Portugês, mas posso tentar dialogar em inglês</strong>
 
 <div align="center">
